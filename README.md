@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hey there!
+
+I have a strong passion for leveraging technology to enhance experiences. Currently, I am a rising third-year Computer Science + Business Administration student at Northeastern University in Boston, MA.
+
+  → Be sure to check out my [portfolio 💼](https://www.jaysella.com/) for more info on recent projects and future endeavors.
+
+  → Connect with me on [LinkedIn 💬](https://linkedin.com/in/jay-sella) if you'd like to get in touch!
 
 <!--
-**jaysella/jaysella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
