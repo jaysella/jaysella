@@ -1,7 +1,7 @@
-### Hey there!
+### Hello! 👋
 
-I have a strong passion for leveraging technology to enhance experiences. Currently, I'm a third-year Computer Science + Business Administration student at Northeastern University in Boston, MA.
+I leverage technology to enhance experiences while bringing others along on the journey. Currently, I am a fourth-year Computer Science and Business Administration student at Northeastern University in Boston, MA.
 
-  → Check out my [portfolio 💼](https://www.jaysella.com/) for more info on recent projects and future endeavors.
+→ Check out my [portfolio 💼](https://www.jaysella.com/) for more info on past work and current endeavors.
 
-  → Connect with me on [LinkedIn 💬](https://linkedin.com/in/jay-sella) if you'd like to get in touch!
+→ Connect with me on [LinkedIn 💬](https://linkedin.com/in/jay-sella) if you'd like to get in touch!
